@@ -1,0 +1,16 @@
+INPUT(
+./release/main.o
+./release/mainwindow.o
+./release/createprofform.o
+./release/dbmanager.o
+./release/delegate.o
+./release/viewmanager.o
+./release/perfil.o
+./release/commmanager.o
+./release/moc_mainwindow.o
+./release/moc_createprofform.o
+./release/moc_dbmanager.o
+./release/moc_delegate.o
+./release/moc_viewmanager.o
+./release/moc_commmanager.o
+);

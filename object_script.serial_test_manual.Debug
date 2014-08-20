@@ -1,0 +1,16 @@
+INPUT(
+./debug/main.o
+./debug/mainwindow.o
+./debug/createprofform.o
+./debug/dbmanager.o
+./debug/delegate.o
+./debug/viewmanager.o
+./debug/perfil.o
+./debug/commmanager.o
+./debug/moc_mainwindow.o
+./debug/moc_createprofform.o
+./debug/moc_dbmanager.o
+./debug/moc_delegate.o
+./debug/moc_viewmanager.o
+./debug/moc_commmanager.o
+);
